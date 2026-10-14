@@ -1,8 +1,9 @@
 # Publishes the files on this branch as a GitHub Pages site (the staff demo of the building app).
+# GitHub only lets the repository's default branch deploy to the github-pages environment, so the demo is published from there.
 name: Publish demo
 on:
   push:
-    branches: [demo]
+    branches: [claude/build-flappy-bird-Xpuht, demo]
   workflow_dispatch:
 permissions:
   contents: read
