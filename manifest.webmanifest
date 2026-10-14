@@ -1,7 +1,7 @@
 {
   "name": "The One Maison",
   "short_name": "One Maison",
-  "start_url": "/",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#1f7a5c",
