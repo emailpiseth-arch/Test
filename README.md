@@ -1,9 +1,15 @@
-# THE ONE MAISON — building app demo
+# THE ONE MAISON — building app
 
-A test version of the building management app for staff to try on their phones.
-Everything in it is sample data; nothing is real. Each phone keeps its own copy of the data.
+**Demo**: a test version for staff to try on their phones. Everything in it is sample data; nothing is real.
+Each phone keeps its own copy of the data.
 
 Open: https://emailpiseth-arch.github.io/Test/
+
+**Working**: the real copy, with the building's units, sizes, rates and lists only (no people, no money).
+Drop your files into "Add files" and the app fills in balances, staff, readings and the rest. Until it is connected
+to the building's free database, everything stays on the phone or computer it was entered on.
+
+Open: https://emailpiseth-arch.github.io/Test/working/
 
 ## Department of Americas Affairs — workspace demo
 

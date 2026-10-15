@@ -1,0 +1,1 @@
+function i(t,a,n){const e=n.filter(s=>s.unit_id===t.id&&s.id!==a.id);return a.status==="active"&&t.status==="vacant"?"long_term":a.status==="ended"&&t.status==="long_term"&&!e.some(s=>s.status==="active")?"vacant":null}function u(t,a){return a.find(n=>n.unit_id===t&&n.status==="active")}export{u as a,i as u};
